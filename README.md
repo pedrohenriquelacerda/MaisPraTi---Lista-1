@@ -2,18 +2,18 @@
 
 Lista de exercícios do curso MaisPraTi.
 
-````bash
 # Clone o repositório
+````bash
 git clone https://github.com/pedrohenriquelacerda/MaisPraTi---Lista-1.git
 ````
 
-````bash
 # Após entrar no diretório, instale as depedências
+````bash
 npm i
 ````
 
-````bash
 # Execute o index.js
+````bash
 node index.js
 ````
 
